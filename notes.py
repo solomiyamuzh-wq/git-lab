@@ -1,2 +1,2 @@
 print('notes')
-print('Виконала студентка Solomiya Muzh групи UP-21 122')
+print('Виконала студентка Solomiya Muzh групи UP-21 1234')
